@@ -29,8 +29,6 @@
   - db/emotional_data/test/test.CSV
 - 훈련 데이터(`train.CSV`)와 테스트 데이터(`test.CSV`)를 분리하여 저장.
 
----
-
 ### 2️⃣ CSV 파일을 JSONL 형태로 변환
 #### 🔹 **CSV → JSONL 변환 과정**
 1. **CSV 파일 로드:**  
